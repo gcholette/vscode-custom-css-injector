@@ -1,9 +1,16 @@
-# vscode-custom-css-injector
-Inject CSS inside vscode to allow deep customisation.
+<h1 align="center">
+  :syringe: VSCode Custom CSS Injector
+</h1>
 
-Tested w/ VSCode version 1.62.0 & Electron 13.5.1 on Windows.
+<h4 align="center">
+  Inject CSS inside vscode to allow deep customisation.
+</h4>
 
-### How to use
+<p align="center">
+  <img src="https://github.com/gcholette/vscode-custom-css-injector/blob/main/examples/example-css-1.PNG?raw=true" width="80%" height="80%">
+</p>
+
+## How to use
 
 1. Copy the file `custom-css-injector.js` inside `C:\Users\<User>\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\code\electron-browser\workbench\` on Windows 10.
 
@@ -19,10 +26,9 @@ Use the dev tools inside vscode to debug and find css classes with Help -> Toggl
 
 Note: vscode will say that it's installation is corrupt.
 
-<img src="https://github.com/gcholette/vscode-custom-css-injector/blob/main/examples/example-css-1.PNG?raw=true">
+Tested w/ VSCode version 1.62.0 & Electron 13.5.1 on Windows.
 
-
-### Credits
+## Credits
 
 Inspired by the "Neon Dreams" feature in the extension [Synthwave '84](https://github.com/robb0wen/synthwave-vscode). It's basically a reworked version of [this file](https://github.com/robb0wen/synthwave-vscode/blob/master/src/js/theme_template.js) for modularity.
 

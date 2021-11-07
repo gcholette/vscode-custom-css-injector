@@ -7,8 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/gcholette/vscode-custom-css-injector/blob/main/examples/example-css-1.PNG?raw=true" width="80%" height="80%">
-</p>
+  <img src="https://github.com/gcholette/vscode-custom-css-injector/blob/main/examples/example-css-1-0.PNG?raw=true">
 
 ## How to use
 

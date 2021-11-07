@@ -19,4 +19,11 @@ Use the dev tools inside vscode to debug and find css classes with Help -> Toggl
 
 Note: vscode will say that it's installation is corrupt.
 
-<img src="https://github.com/gcholette/vscode-custom-css-injector/blob/main/examples/example-css-1.PNG?raw=true" width="75%" height="75%">
+<img src="https://github.com/gcholette/vscode-custom-css-injector/blob/main/examples/example-css-1.PNG?raw=true">
+
+
+### Credits
+
+Inspired by the "Neon Dreams" feature in the extension [Synthwave '84](https://github.com/robb0wen/synthwave-vscode). It's basically a reworked version of [this file](https://github.com/robb0wen/synthwave-vscode/blob/master/src/js/theme_template.js) for modularity.
+
+Feel free to send PRs and create issues!

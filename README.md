@@ -2,9 +2,9 @@
   :syringe: VSCode Custom CSS Injector
 </h1>
 
-<h4 align="center">
-  Inject CSS inside vscode to allow deep customisation.
-</h4>
+<p align="center">
+  <strong>Inject CSS inside vscode to allow deep customisation.</strong>
+</p>
 
 <p align="center">
   <img src="https://github.com/gcholette/vscode-custom-css-injector/blob/main/examples/example-css-1.PNG?raw=true" width="80%" height="80%">

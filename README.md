@@ -16,3 +16,5 @@ To modify the CSS simply modify custom-css-injector.js
 Use the dev tools inside vscode to debug and find css classes with Help -> Toggle Developer Tools
 
 Note: vscode will say that it's installation is corrupt.
+
+<img src="https://github.com/gcholette/vscode-custom-css-injector/blob/main/examples/example-css-1.PNG?raw=true" width="75%" height="75%">

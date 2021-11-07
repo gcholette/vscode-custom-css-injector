@@ -1,16 +1,18 @@
 # vscode-custom-css-injector
-A little hack that edits the css inside vscode
+A little hack that injects CSS inside vscode to allow deep customisation.
 
 ### How to use
 
-Copy the file `custom-css-injector.js` inside `C:\Users\<User>\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\code\electron-browser\workbench\` on Windows by default (path subject to change).
+1. Copy the file `custom-css-injector.js` inside `C:\Users\<User>\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\code\electron-browser\workbench\` on Windows 10.
 
-Inside this same repository, add this code to the existing file `workbench.html`
+2. Inside this same repository, add this line of code to the existing file `workbench.html`
 
 ```
 <script src="custom-css-injector.js"></script>
 ```
 
-To modify the CSS simply modify it inside custom-css-injector.js
+To modify the CSS simply modify custom-css-injector.js
 
 Use the dev tools inside vscode to debug and find css classes with Help -> Toggle Developer Tools
+
+Note: vscode will say that it's installation is corrupt.

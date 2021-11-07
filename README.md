@@ -1,5 +1,5 @@
 # vscode-custom-css-injector
-A little hack that injects CSS inside vscode to allow deep customisation.
+Inject CSS inside vscode to allow deep customisation.
 
 ### How to use
 

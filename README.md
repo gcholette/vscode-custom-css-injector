@@ -24,6 +24,8 @@ To modify the CSS simply modify custom-css-injector.js
 Use the dev tools inside vscode to debug and find css classes with Help -> Toggle Developer Tools
 
 Note: vscode will say that it's installation is corrupt.
+  
+Note 2: VScode will wipe the directory with every update, so make sure if you have motifications that it's backed up somewhere.
 
 Tested w/ VSCode version 1.62.0 & Electron 13.5.1 on Windows.
 
